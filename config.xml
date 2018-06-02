@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "https://github.com/alonsogauti/client-side-Dom-manipulation"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Todo List</name>
+
+  <description>
+      Daily Todo List APP
+  </description>
+
+  <author href="https://thesudhar.com" email="gautam.bornidentity.kumar@gmail.com">
+      Gautam Kumar Jha
+  </author>
+
+</widget>
